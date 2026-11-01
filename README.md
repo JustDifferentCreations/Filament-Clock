@@ -1,6 +1,6 @@
 # Filament Clock
 
-A clock built from five circuit boards joined by card-edge connectors: one base board and four plug-in digit boards. Each digit is outlined in neon pink LED filament, so the numbers seem to float.
+A clock built from six circuit boards joined by card-edge connectors: one base board, four plug-in digit boards and a plug-in colon board. Each digit is outlined in neon pink LED filament, so the numbers seem to float.
 
 Designed by [Just Different Creations](https://justdif.com) in Lufkin, Texas. See it on the [PCB-Only Builds](https://justdif.com/pcb-only-builds/) page.
 
